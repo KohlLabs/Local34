@@ -39,6 +39,6 @@ Works best with anime, 2D, and stylized artwork.
 
 ---
 
-Made with love (and a lot of caffeine) by Shreg.
+Made with love (and a lot of caffeine) by Shreg (Creator of KohlLabs).
 
 **All Rights Reserved — Personal use only.**
