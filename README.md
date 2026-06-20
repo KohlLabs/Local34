@@ -1,3 +1,5 @@
+**License**: Proprietary — Personal use only. All rights reserved.
+
 # Local34
 
 **Your personal offline media gallery.**
