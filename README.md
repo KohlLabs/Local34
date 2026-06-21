@@ -6,7 +6,7 @@
 
 Private. Fast. Built for collectors.
 
-![Home Screen](Local34 Git/Home.png)
+![Home Screen](previews/Home.png)
 
 ## Features
 
