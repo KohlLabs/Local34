@@ -6,7 +6,6 @@
 
 Private. Fast. Built for collectors.
 
-![Home Screen](previews/Home.png)
 
 ## Features
 
@@ -39,7 +38,15 @@ Works best with anime, 2D, and stylized artwork.
 - Perceptual hashing for duplicates
 - Local ffmpeg for video thumbnails
 
----
+## App Previews
+
+![Home Screen](previews/Home.png)
+
+![Home Screen](previews/Search1.png)
+
+![Home Screen](previews/Search2.png)
+
+![Home Screen](previews/View.png)
 
 Made with love (and a lot of caffeine) by Shreg (Creator of KohlLabs).
 
