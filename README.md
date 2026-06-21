@@ -6,7 +6,7 @@
 
 Private. Fast. Built for collectors.
 
-<img src="https://via.placeholder.com/800x400/1a1a1a/fff069?text=Local34+Preview" alt="Local34 Preview">
+<img src="https://freeimage.host/i/CzQsD1s" alt="Local34 Preview">
 
 ## Features
 
