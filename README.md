@@ -6,7 +6,7 @@
 
 Private. Fast. Built for collectors.
 
-<img src="https://freeimage.host/i/CzQsD1s" alt="Local34 Preview">
+![Home Screen](Local34 Git/Home.png)
 
 ## Features
 
